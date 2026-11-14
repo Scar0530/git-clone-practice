@@ -1,1 +1,1 @@
-# git-clone-practice
+Practicing Cloning Repositories in TBC Academy.
