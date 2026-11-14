@@ -1,1 +1,1 @@
-# git-clone-practice
+practicing cloning repositories, creating branches, making commits, and pushing changes to remote repositories.
